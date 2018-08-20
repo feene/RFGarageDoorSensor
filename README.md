@@ -10,3 +10,7 @@ I Powerd this project with an old Laptop Cell.  Use the +3.3V side and Voltage R
 So far the device has been running for 3 Months with only a .5 voltage drop.
 
 Pictures and Circuit Diagram to come.
+
+Get a good ball tilt sensor.  Cheap ones will not work well.
+https://www.adafruit.com/product/173
+
